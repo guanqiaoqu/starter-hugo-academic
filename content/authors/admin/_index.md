@@ -8,7 +8,7 @@ interests:
   - Resource allocation
   - Mobile edge computing
   - Vechicular ad hoc network
-  - IoT.
+  - IoT
 social:
   - icon: envelope
     icon_pack: fas
