@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: guanqiaoqu@hit.edu.cn
+    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
