@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: guanqiaoqu@hit.edu.cn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -33,12 +33,12 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Electronic Information
+      institution: Harbin Institute of Technology
+      year: 2022
+    - course: BSc in Communication Engineering
+      institution: Harbin Institute of Technology
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
