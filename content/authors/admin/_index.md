@@ -44,3 +44,5 @@ superuser: true
 highlight_name: true
 ---
 Guanqiao Qu is currently pursuing the M.Sc. degree in school of electronic and information engineering from Harbin Institute of Technology. He served as a reviewer of ICC 2022.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
